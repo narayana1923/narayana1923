@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+- I am Lakshmi Narayana Velayudam
+- I prefer to be called as Narayana
+- Under Graduate Computer Science (2023 passout)
+
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on challenging projects
+
+## Coding Profiles
+- [Leetcode]()
+- [Hackerrank]()
+## Reach me via
+- [LinkedIn](https://www.linkedin.com/in/lakshmi-narayana-velayudam/)
+- [Email](mailto:lcchinnu@gmail.com)
 
 <!--
-**narayana1923/narayana1923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
