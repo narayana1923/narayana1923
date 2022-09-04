@@ -3,7 +3,7 @@
 - I am Lakshmi Narayana Velayudam
 - I prefer to be called as Narayana
 - Under Graduate Computer Science (2023 passout)
-
+- Currently working on ![Resolver](https://github.com/narayana1923/Resolver)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on challenging projects
 <br><br>
