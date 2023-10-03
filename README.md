@@ -1,9 +1,6 @@
 # **Hi there** 👋
 
-- Under Graduate Computer Science (2023 passout)
-- Currently working on <a href="https://github.com/narayana1923/Resolver" target="_blank">Resolver</a>
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on challenging projects
+- Currently working as software engineer at Zoho Corp
 <br><br>
 # **Github Summary**
 
