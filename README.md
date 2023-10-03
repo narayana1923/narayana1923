@@ -13,12 +13,12 @@
 <br><br>
 # **Coding Profiles**
 
-- [Leetcode]()
-- [Hackerrank]()
+- [Leetcode](https://leetcode.com/narayana007/)
+- [Hackerrank](https://www.hackerrank.com/lcchinnu?hr_r=1)
 
 <br>
 
 # **Reach me via**
 
 - [LinkedIn](https://www.linkedin.com/in/lakshmi-narayana-velayudam/)
-- [Email](mailto:lcchinnu@gmail.com)
+- [Email](mailto:dev.narayana.v@gmail.com)
